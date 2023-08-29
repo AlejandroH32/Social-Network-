@@ -1,0 +1,7 @@
+C:\Users\khern\OneDrive\Escritorio\CursosC#EdTeam\Que_Es_POO\CsHarpSocialNetworkManager\bin\Debug\CsHarpSocialNetworkManager.exe.config
+C:\Users\khern\OneDrive\Escritorio\CursosC#EdTeam\Que_Es_POO\CsHarpSocialNetworkManager\bin\Debug\CsHarpSocialNetworkManager.exe
+C:\Users\khern\OneDrive\Escritorio\CursosC#EdTeam\Que_Es_POO\CsHarpSocialNetworkManager\bin\Debug\CsHarpSocialNetworkManager.pdb
+C:\Users\khern\OneDrive\Escritorio\CursosC#EdTeam\Que_Es_POO\CsHarpSocialNetworkManager\obj\Debug\CsHarpSocialNetworkManager.csproj.AssemblyReference.cache
+C:\Users\khern\OneDrive\Escritorio\CursosC#EdTeam\Que_Es_POO\CsHarpSocialNetworkManager\obj\Debug\CsHarpSocialNetworkManager.csproj.CoreCompileInputs.cache
+C:\Users\khern\OneDrive\Escritorio\CursosC#EdTeam\Que_Es_POO\CsHarpSocialNetworkManager\obj\Debug\CsHarpSocialNetworkManager.exe
+C:\Users\khern\OneDrive\Escritorio\CursosC#EdTeam\Que_Es_POO\CsHarpSocialNetworkManager\obj\Debug\CsHarpSocialNetworkManager.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Que_Es_POO", "Que_Es_POO\Que_Es_POO.csproj", "{2172DA08-F7D5-4C39-9718-359B8AF70C6B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CsHarpSocialNetworkManager", "CsHarpSocialNetworkManager\CsHarpSocialNetworkManager.csproj", "{FC2A046C-2879-467E-A697-23EDF641CB3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2172DA08-F7D5-4C39-9718-359B8AF70C6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2172DA08-F7D5-4C39-9718-359B8AF70C6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2172DA08-F7D5-4C39-9718-359B8AF70C6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2172DA08-F7D5-4C39-9718-359B8AF70C6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC2A046C-2879-467E-A697-23EDF641CB3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC2A046C-2879-467E-A697-23EDF641CB3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC2A046C-2879-467E-A697-23EDF641CB3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC2A046C-2879-467E-A697-23EDF641CB3A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F893BBD-6F6A-4D2F-ADF0-6CC7074D44A5}
+	EndGlobalSection
+EndGlobal
